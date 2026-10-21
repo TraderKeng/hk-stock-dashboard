@@ -1,0 +1,1743 @@
+{
+ "asOf": "2026-10-21",
+ "indices": [
+  {
+   "key": "HSI",
+   "name": "恒生指數 HSI",
+   "close": 23651.869140625,
+   "chg": {
+    "1d": -0.009044471392356424,
+    "5d": -0.028479986727374396,
+    "10d": -0.025892787978937903,
+    "20d": -0.055538787328024315,
+    "30d": -0.06930475516421342
+   }
+  },
+  {
+   "key": "HSTECH",
+   "name": "恒生科技 HSTECH",
+   "close": 3994.77,
+   "chg": {
+    "1d": -0.012639925257852958,
+    "5d": -0.034293615817706735,
+    "10d": -0.05406243784157539,
+    "20d": -0.09687811561077841,
+    "30d": -0.11770630186120579
+   }
+  }
+ ],
+ "tags": [
+  {
+   "kind": "stock",
+   "code": "0001",
+   "name": "長和",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0003",
+   "name": "香港中華煤氣",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0005",
+   "name": "滙豐控股",
+   "tags": [
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0006",
+   "name": "電能實業",
+   "tags": [
+    "持續強"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0012",
+   "name": "恒基地產",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0020",
+   "name": "商湯 - W",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0100",
+   "name": "MINIMAX - W",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0101",
+   "name": "恒隆地產",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0175",
+   "name": "吉利汽車",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0267",
+   "name": "中信股份",
+   "tags": [
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0285",
+   "name": "比亞迪電子",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0288",
+   "name": "萬洲國際",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0291",
+   "name": "華潤啤酒",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0316",
+   "name": "東方海外國際",
+   "tags": [
+    "持續強"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0388",
+   "name": "香港交易所",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0700",
+   "name": "騰訊控股",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0762",
+   "name": "中國聯通",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0857",
+   "name": "中國石油股份(H)",
+   "tags": [
+    "持續強"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0939",
+   "name": "建設銀行(H)",
+   "tags": [
+    "持續強"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0941",
+   "name": "中國移動",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0960",
+   "name": "龍湖集團",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0968",
+   "name": "信義光能",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0981",
+   "name": "中芯國際",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0992",
+   "name": "聯想集團",
+   "tags": [
+    "超弱勢",
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1024",
+   "name": "快手 - W",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1038",
+   "name": "長江基建集團",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1088",
+   "name": "中國神華(H)",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1093",
+   "name": "石藥集團",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1109",
+   "name": "華潤置地",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1113",
+   "name": "長實集團",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1177",
+   "name": "中國生物製藥",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1209",
+   "name": "華潤萬象生活",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1211",
+   "name": "比亞迪股份(H)",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1347",
+   "name": "華虹宏力",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1378",
+   "name": "中國宏橋",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1398",
+   "name": "工商銀行(H)",
+   "tags": [
+    "持續強"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1519",
+   "name": "極兔速遞 - W",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1698",
+   "name": "騰訊音樂 - SW",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1801",
+   "name": "信達生物",
+   "tags": [
+    "超弱勢",
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1928",
+   "name": "金沙中國有限公司",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2020",
+   "name": "安踏體育",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2313",
+   "name": "申洲國際",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2318",
+   "name": "中國平安(H)",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2319",
+   "name": "蒙牛乳業",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2338",
+   "name": "濰柴動力(H)",
+   "tags": [
+    "超弱勢",
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2382",
+   "name": "舜宇光學科技",
+   "tags": [
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2388",
+   "name": "中銀香港",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2513",
+   "name": "智譜(H)",
+   "tags": [
+    "超弱勢",
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2600",
+   "name": "中國鋁業(H)",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2628",
+   "name": "中國人壽(H)",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2899",
+   "name": "紫金礦業(H)",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "3692",
+   "name": "翰森製藥",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "3750",
+   "name": "寧德時代(H)",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "3968",
+   "name": "招商銀行(H)",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "3988",
+   "name": "中國銀行(H)",
+   "tags": [
+    "持續強"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "3993",
+   "name": "洛陽鉬業(H)",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "6160",
+   "name": "百濟神州",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "6181",
+   "name": "老鋪黃金(H)",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "6618",
+   "name": "京東健康",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "6690",
+   "name": "海爾智家(H)",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9618",
+   "name": "京東集團 - SW",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9626",
+   "name": "嗶哩嗶哩 - W",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9660",
+   "name": "地平線機器人 - W",
+   "tags": [
+    "超弱勢",
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9866",
+   "name": "蔚來 - SW",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9868",
+   "name": "小鵬集團 - W",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9888",
+   "name": "百度集團 - SW",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9901",
+   "name": "新東方 - S",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9903",
+   "name": "天數智芯(H)",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9988",
+   "name": "阿里巴巴 - W",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9992",
+   "name": "泡泡瑪特",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9999",
+   "name": "網易",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Aluminum",
+   "name": "鋁業",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Auto Manufacturers",
+   "name": "汽車製造",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Banks - Diversified",
+   "name": "綜合銀行",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Biotechnology",
+   "name": "生物科技",
+   "tags": [
+    "超弱勢",
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Computer Hardware",
+   "name": "電腦硬件",
+   "tags": [
+    "超弱勢",
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Conglomerates",
+   "name": "綜合企業",
+   "tags": [
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Drug Manufacturers - General",
+   "name": "藥品製造（綜合）",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Drug Manufacturers - Specialty & Generic",
+   "name": "藥品製造（專科／仿製）",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Education & Training Services",
+   "name": "教育培訓",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Electrical Equipment & Parts",
+   "name": "電氣設備及零件",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Electronic Components",
+   "name": "電子元件",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Electronic Gaming & Multimedia",
+   "name": "電子遊戲及多媒體",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Financial Data & Stock Exchanges",
+   "name": "金融數據及交易所",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Furnishings, Fixtures & Appliances",
+   "name": "家電及家具",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Gold",
+   "name": "黃金",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Insurance - Life",
+   "name": "人壽保險",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Internet Content & Information",
+   "name": "互聯網內容及資訊",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Leisure",
+   "name": "休閒運動",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Luxury Goods",
+   "name": "奢侈品",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Marine Shipping",
+   "name": "海運",
+   "tags": [
+    "持續強"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Other Industrial Metals & Mining",
+   "name": "其他工業金屬及採礦",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Real Estate - Development",
+   "name": "地產發展",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Real Estate - Diversified",
+   "name": "綜合地產",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Semiconductors",
+   "name": "半導體",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Software - Application",
+   "name": "軟件（應用）",
+   "tags": [
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Software - Infrastructure",
+   "name": "軟件（基建）",
+   "tags": [
+    "超弱勢",
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Solar",
+   "name": "太陽能",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Telecom Services",
+   "name": "電訊服務",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Textile Manufacturing",
+   "name": "紡織製造",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Thermal Coal",
+   "name": "動力煤",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Utilities - Regulated Electric",
+   "name": "受規管電力公用",
+   "tags": [
+    "持續強"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Utilities - Regulated Gas",
+   "name": "受規管燃氣公用",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "subsector",
+   "code": "Utilities",
+   "name": "公用事業",
+   "tags": [
+    "持續強"
+   ]
+  },
+  {
+   "kind": "subsector",
+   "code": "Telecommunications",
+   "name": "電訊業",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "subsector",
+   "code": "Healthcare",
+   "name": "醫療保健業",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "subsector",
+   "code": "Conglomerates",
+   "name": "綜合企業",
+   "tags": [
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "subsector",
+   "code": "Financials",
+   "name": "金融業",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "subsector",
+   "code": "Industrials",
+   "name": "工業",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "subsector",
+   "code": "Materials",
+   "name": "原材料業",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "subsector",
+   "code": "Information Technology",
+   "name": "資訊科技業",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  }
+ ],
+ "breadth": [
+  {
+   "kind": "industry_group",
+   "key": "Aluminum",
+   "name": "鋁業",
+   "n": 2,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.105057,
+   "r20": -0.119753
+  },
+  {
+   "kind": "industry_group",
+   "key": "Auto Manufacturers",
+   "name": "汽車製造",
+   "n": 7,
+   "breadth5": 14.3,
+   "breadth10": 28.6,
+   "breadth5Chg": 0.0,
+   "r5": -0.031833,
+   "r20": -0.085954
+  },
+  {
+   "kind": "industry_group",
+   "key": "Banks - Diversified",
+   "name": "綜合銀行",
+   "n": 4,
+   "breadth5": 0.0,
+   "breadth10": 50.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.025289,
+   "r20": -0.021292
+  },
+  {
+   "kind": "industry_group",
+   "key": "Banks - Regional",
+   "name": "地區銀行",
+   "n": 2,
+   "breadth5": 0.0,
+   "breadth10": 50.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.021702,
+   "r20": -0.006161
+  },
+  {
+   "kind": "industry_group",
+   "key": "Beverages - Brewers",
+   "name": "啤酒飲料",
+   "n": 2,
+   "breadth5": 50.0,
+   "breadth10": 100.0,
+   "breadth5Chg": -50.0,
+   "r5": -0.001483,
+   "r20": 0.006792
+  },
+  {
+   "kind": "industry_group",
+   "key": "Beverages - Non-Alcoholic",
+   "name": "非酒精飲料",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 100.0,
+   "breadth5Chg": -100.0,
+   "r5": -0.012512,
+   "r20": 0.045339
+  },
+  {
+   "kind": "industry_group",
+   "key": "Biotechnology",
+   "name": "生物科技",
+   "n": 4,
+   "breadth5": 25.0,
+   "breadth10": 25.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.00305,
+   "r20": -0.057178
+  },
+  {
+   "kind": "industry_group",
+   "key": "Building Materials",
+   "name": "建材",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 100.0,
+   "breadth5Chg": -100.0,
+   "r5": -0.019826,
+   "r20": -0.043531
+  },
+  {
+   "kind": "industry_group",
+   "key": "Computer Hardware",
+   "name": "電腦硬件",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.163987,
+   "r20": -0.272524
+  },
+  {
+   "kind": "industry_group",
+   "key": "Conglomerates",
+   "name": "綜合企業",
+   "n": 2,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.025258,
+   "r20": -0.042256
+  },
+  {
+   "kind": "industry_group",
+   "key": "Consumer Electronics",
+   "name": "消費電子",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.070287,
+   "r20": -0.028281
+  },
+  {
+   "kind": "industry_group",
+   "key": "Diagnostics & Research",
+   "name": "診斷及研究",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.054966,
+   "r20": -0.057692
+  },
+  {
+   "kind": "industry_group",
+   "key": "Drug Manufacturers - General",
+   "name": "藥品製造（綜合）",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.020408,
+   "r20": -0.075481
+  },
+  {
+   "kind": "industry_group",
+   "key": "Drug Manufacturers - Specialty & Generic",
+   "name": "藥品製造（專科／仿製）",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.090044,
+   "r20": -0.025372
+  },
+  {
+   "kind": "industry_group",
+   "key": "Education & Training Services",
+   "name": "教育培訓",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.050328,
+   "r20": 0.102435
+  },
+  {
+   "kind": "industry_group",
+   "key": "Electrical Equipment & Parts",
+   "name": "電氣設備及零件",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.248145,
+   "r20": -0.276191
+  },
+  {
+   "kind": "industry_group",
+   "key": "Electronic Components",
+   "name": "電子元件",
+   "n": 2,
+   "breadth5": 50.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.012476,
+   "r20": -0.065221
+  },
+  {
+   "kind": "industry_group",
+   "key": "Electronic Gaming & Multimedia",
+   "name": "電子遊戲及多媒體",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.005115,
+   "r20": 0.049649
+  },
+  {
+   "kind": "industry_group",
+   "key": "Financial Data & Stock Exchanges",
+   "name": "金融數據及交易所",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.017914,
+   "r20": -0.047035
+  },
+  {
+   "kind": "industry_group",
+   "key": "Furnishings, Fixtures & Appliances",
+   "name": "家電及家具",
+   "n": 2,
+   "breadth5": 0.0,
+   "breadth10": 50.0,
+   "breadth5Chg": -50.0,
+   "r5": -0.036965,
+   "r20": -0.025991
+  },
+  {
+   "kind": "industry_group",
+   "key": "Gold",
+   "name": "黃金",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.066869,
+   "r20": -0.102864
+  },
+  {
+   "kind": "industry_group",
+   "key": "Household & Personal Products",
+   "name": "家居及個人護理",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 100.0,
+   "breadth5Chg": -100.0,
+   "r5": -0.016113,
+   "r20": -0.01809
+  },
+  {
+   "kind": "industry_group",
+   "key": "Insurance - Life",
+   "name": "人壽保險",
+   "n": 3,
+   "breadth5": 0.0,
+   "breadth10": 33.3,
+   "breadth5Chg": -33.3,
+   "r5": -0.051208,
+   "r20": -0.115407
+  },
+  {
+   "kind": "industry_group",
+   "key": "Integrated Freight & Logistics",
+   "name": "綜合物流",
+   "n": 3,
+   "breadth5": 0.0,
+   "breadth10": 66.7,
+   "breadth5Chg": -33.3,
+   "r5": -0.034081,
+   "r20": -0.038882
+  },
+  {
+   "kind": "industry_group",
+   "key": "Internet Content & Information",
+   "name": "互聯網內容及資訊",
+   "n": 5,
+   "breadth5": 0.0,
+   "breadth10": 20.0,
+   "breadth5Chg": -20.0,
+   "r5": -0.054718,
+   "r20": -0.062463
+  },
+  {
+   "kind": "industry_group",
+   "key": "Internet Retail",
+   "name": "互聯網零售",
+   "n": 3,
+   "breadth5": 33.3,
+   "breadth10": 33.3,
+   "breadth5Chg": 0.0,
+   "r5": -0.006809,
+   "r20": -0.031733
+  },
+  {
+   "kind": "industry_group",
+   "key": "Leisure",
+   "name": "休閒運動",
+   "n": 3,
+   "breadth5": 66.7,
+   "breadth10": 66.7,
+   "breadth5Chg": 0.0,
+   "r5": -0.021627,
+   "r20": -0.036059
+  },
+  {
+   "kind": "industry_group",
+   "key": "Luxury Goods",
+   "name": "奢侈品",
+   "n": 2,
+   "breadth5": 50.0,
+   "breadth10": 50.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.000974,
+   "r20": -0.085472
+  },
+  {
+   "kind": "industry_group",
+   "key": "Marine Shipping",
+   "name": "海運",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.055758,
+   "r20": 0.042838
+  },
+  {
+   "kind": "industry_group",
+   "key": "Medical Distribution",
+   "name": "醫療分銷",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.035691,
+   "r20": 0.037062
+  },
+  {
+   "kind": "industry_group",
+   "key": "Oil & Gas E&P",
+   "name": "石油天然氣勘探生產",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 100.0,
+   "breadth5Chg": -100.0,
+   "r5": -0.014827,
+   "r20": -0.000835
+  },
+  {
+   "kind": "industry_group",
+   "key": "Oil & Gas Integrated",
+   "name": "綜合石油天然氣",
+   "n": 2,
+   "breadth5": 0.0,
+   "breadth10": 100.0,
+   "breadth5Chg": -50.0,
+   "r5": -0.023736,
+   "r20": 0.016425
+  },
+  {
+   "kind": "industry_group",
+   "key": "Other Industrial Metals & Mining",
+   "name": "其他工業金屬及採礦",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.123877,
+   "r20": -0.131127
+  },
+  {
+   "kind": "industry_group",
+   "key": "Packaged Foods",
+   "name": "包裝食品",
+   "n": 3,
+   "breadth5": 66.7,
+   "breadth10": 66.7,
+   "breadth5Chg": 0.0,
+   "r5": -0.000747,
+   "r20": 0.011762
+  },
+  {
+   "kind": "industry_group",
+   "key": "Pharmaceutical Retailers",
+   "name": "醫藥零售",
+   "n": 2,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.052184,
+   "r20": 0.036351
+  },
+  {
+   "kind": "industry_group",
+   "key": "REIT - Retail",
+   "name": "零售 REIT",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.006356,
+   "r20": 0.013874
+  },
+  {
+   "kind": "industry_group",
+   "key": "Railroads",
+   "name": "鐵路",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.013631,
+   "r20": -0.015644
+  },
+  {
+   "kind": "industry_group",
+   "key": "Real Estate - Development",
+   "name": "地產發展",
+   "n": 5,
+   "breadth5": 0.0,
+   "breadth10": 40.0,
+   "breadth5Chg": -40.0,
+   "r5": -0.014622,
+   "r20": -0.024992
+  },
+  {
+   "kind": "industry_group",
+   "key": "Real Estate - Diversified",
+   "name": "綜合地產",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.012565,
+   "r20": 0.040243
+  },
+  {
+   "kind": "industry_group",
+   "key": "Real Estate Services",
+   "name": "地產服務",
+   "n": 3,
+   "breadth5": 66.7,
+   "breadth10": 66.7,
+   "breadth5Chg": 0.0,
+   "r5": -0.00346,
+   "r20": -0.004307
+  },
+  {
+   "kind": "industry_group",
+   "key": "Resorts & Casinos",
+   "name": "博彩度假",
+   "n": 2,
+   "breadth5": 50.0,
+   "breadth10": 50.0,
+   "breadth5Chg": -50.0,
+   "r5": 0.001782,
+   "r20": -0.024651
+  },
+  {
+   "kind": "industry_group",
+   "key": "Restaurants",
+   "name": "餐飲",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 100.0,
+   "r5": 0.002688,
+   "r20": -0.034179
+  },
+  {
+   "kind": "industry_group",
+   "key": "Semiconductors",
+   "name": "半導體",
+   "n": 3,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.097629,
+   "r20": -0.336262
+  },
+  {
+   "kind": "industry_group",
+   "key": "Software - Application",
+   "name": "軟件（應用）",
+   "n": 2,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.042829,
+   "r20": -0.095983
+  },
+  {
+   "kind": "industry_group",
+   "key": "Software - Infrastructure",
+   "name": "軟件（基建）",
+   "n": 2,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.18193,
+   "r20": -0.399235
+  },
+  {
+   "kind": "industry_group",
+   "key": "Solar",
+   "name": "太陽能",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.026525,
+   "r20": -0.09828
+  },
+  {
+   "kind": "industry_group",
+   "key": "Telecom Services",
+   "name": "電訊服務",
+   "n": 3,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": -33.3,
+   "r5": -0.046372,
+   "r20": -0.026871
+  },
+  {
+   "kind": "industry_group",
+   "key": "Textile Manufacturing",
+   "name": "紡織製造",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.008242,
+   "r20": 0.057637
+  },
+  {
+   "kind": "industry_group",
+   "key": "Thermal Coal",
+   "name": "動力煤",
+   "n": 1,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.083409,
+   "r20": -0.084077
+  },
+  {
+   "kind": "industry_group",
+   "key": "Tools & Accessories",
+   "name": "工具及配件",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.051834,
+   "r20": 0.020898
+  },
+  {
+   "kind": "industry_group",
+   "key": "Travel Services",
+   "name": "旅遊服務",
+   "n": 1,
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.020222,
+   "r20": -0.031579
+  },
+  {
+   "kind": "industry_group",
+   "key": "Utilities - Independent Power Producers",
+   "name": "獨立電力生產商",
+   "n": 2,
+   "breadth5": 0.0,
+   "breadth10": 50.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.028037,
+   "r20": 0.008938
+  },
+  {
+   "kind": "industry_group",
+   "key": "Utilities - Regulated Electric",
+   "name": "受規管電力公用",
+   "n": 2,
+   "breadth5": 0.0,
+   "breadth10": 100.0,
+   "breadth5Chg": -50.0,
+   "r5": -0.013927,
+   "r20": 0.006324
+  },
+  {
+   "kind": "industry_group",
+   "key": "Utilities - Regulated Gas",
+   "name": "受規管燃氣公用",
+   "n": 2,
+   "breadth5": 50.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.003175,
+   "r20": 0.00575
+  },
+  {
+   "kind": "subsector",
+   "key": "Consumer Staples",
+   "name": "必需性消費",
+   "n": 7,
+   "breadth5": 42.9,
+   "breadth10": 85.7,
+   "breadth5Chg": -42.8,
+   "r5": -0.004833,
+   "r20": 0.010874
+  },
+  {
+   "kind": "subsector",
+   "key": "Utilities",
+   "name": "公用事業",
+   "n": 6,
+   "breadth5": 16.7,
+   "breadth10": 83.3,
+   "breadth5Chg": -16.6,
+   "r5": -0.015046,
+   "r20": 0.007004
+  },
+  {
+   "kind": "subsector",
+   "key": "Properties & Construction",
+   "name": "地產建築業",
+   "n": 10,
+   "breadth5": 40.0,
+   "breadth10": 60.0,
+   "breadth5Chg": -20.0,
+   "r5": -0.006457,
+   "r20": -0.008376
+  },
+  {
+   "kind": "subsector",
+   "key": "Energy",
+   "name": "能源業",
+   "n": 4,
+   "breadth5": 0.0,
+   "breadth10": 75.0,
+   "breadth5Chg": -50.0,
+   "r5": -0.036427,
+   "r20": -0.013016
+  },
+  {
+   "kind": "subsector",
+   "key": "Telecommunications",
+   "name": "電訊業",
+   "n": 3,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": -33.3,
+   "r5": -0.046372,
+   "r20": -0.026871
+  },
+  {
+   "kind": "subsector",
+   "key": "Healthcare",
+   "name": "醫療保健業",
+   "n": 10,
+   "breadth5": 50.0,
+   "breadth10": 40.0,
+   "breadth5Chg": 0.0,
+   "r5": 0.016693,
+   "r20": -0.02775
+  },
+  {
+   "kind": "subsector",
+   "key": "Consumer Discretionary",
+   "name": "非必需性消費",
+   "n": 28,
+   "breadth5": 42.9,
+   "breadth10": 53.6,
+   "breadth5Chg": -7.1,
+   "r5": -0.012892,
+   "r20": -0.036607
+  },
+  {
+   "kind": "subsector",
+   "key": "Conglomerates",
+   "name": "綜合企業",
+   "n": 2,
+   "breadth5": 0.0,
+   "breadth10": 0.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.025258,
+   "r20": -0.042256
+  },
+  {
+   "kind": "subsector",
+   "key": "Financials",
+   "name": "金融業",
+   "n": 10,
+   "breadth5": 0.0,
+   "breadth10": 40.0,
+   "breadth5Chg": -10.0,
+   "r5": -0.03161,
+   "r20": -0.049075
+  },
+  {
+   "kind": "subsector",
+   "key": "Industrials",
+   "name": "工業",
+   "n": 8,
+   "breadth5": 12.5,
+   "breadth10": 37.5,
+   "breadth5Chg": -12.5,
+   "r5": -0.057277,
+   "r20": -0.089312
+  },
+  {
+   "kind": "subsector",
+   "key": "Materials",
+   "name": "原材料業",
+   "n": 5,
+   "breadth5": 0.0,
+   "breadth10": 20.0,
+   "breadth5Chg": -20.0,
+   "r5": -0.084137,
+   "r20": -0.103405
+  },
+  {
+   "kind": "subsector",
+   "key": "Information Technology",
+   "name": "資訊科技業",
+   "n": 12,
+   "breadth5": 8.3,
+   "breadth10": 16.7,
+   "breadth5Chg": 0.0,
+   "r5": -0.07807,
+   "r20": -0.198303
+  }
+ ],
+ "watch": [
+  {
+   "kind": "industry_group",
+   "key": "Beverages - Brewers",
+   "name": "啤酒飲料",
+   "watch": "轉弱觀察"
+  },
+  {
+   "kind": "industry_group",
+   "key": "Beverages - Non-Alcoholic",
+   "name": "非酒精飲料",
+   "watch": "轉弱觀察"
+  },
+  {
+   "kind": "industry_group",
+   "key": "Oil & Gas Integrated",
+   "name": "綜合石油天然氣",
+   "watch": "轉弱觀察"
+  },
+  {
+   "kind": "industry_group",
+   "key": "Restaurants",
+   "name": "餐飲",
+   "watch": "轉強觀察"
+  },
+  {
+   "kind": "industry_group",
+   "key": "Utilities - Regulated Electric",
+   "name": "受規管電力公用",
+   "watch": "轉弱觀察"
+  },
+  {
+   "kind": "subsector",
+   "key": "Consumer Staples",
+   "name": "必需性消費",
+   "watch": "轉弱觀察"
+  },
+  {
+   "kind": "subsector",
+   "key": "Utilities",
+   "name": "公用事業",
+   "watch": "轉弱觀察"
+  }
+ ]
+}
