@@ -1,28 +1,28 @@
 {
- "asOf": "2026-10-22",
+ "asOf": "2026-10-23",
  "indices": [
   {
    "key": "HSI",
    "name": "恒生指數 HSI",
-   "close": 22934.6796875,
+   "close": 23093.369140625,
    "chg": {
-    "1d": -0.030322738928617587,
-    "5d": -0.05673606126828535,
-    "10d": -0.04955638351878333,
-    "20d": -0.08582157875855746,
-    "30d": -0.09410605878727975
+    "1d": 0.0069191920396207696,
+    "5d": -0.04028437076835257,
+    "10d": -0.02911065594904516,
+    "20d": -0.07009509739978603,
+    "30d": -0.08631434890323453
    }
   },
   {
    "key": "HSTECH",
    "name": "恒生科技 HSTECH",
-   "close": 3793.93,
+   "close": 3871.66,
    "chg": {
-    "1d": -0.05027573552419796,
-    "5d": -0.09115887765392984,
-    "10d": -0.09549671116154768,
-    "20d": -0.14516663249373063,
-    "30d": -0.14835965296250164
+    "1d": 0.020487990026173408,
+    "5d": -0.0466216365960025,
+    "10d": -0.049521527576607216,
+    "20d": -0.11587163484484142,
+    "30d": -0.12421535517407524
    }
   }
  ],
@@ -31,15 +31,6 @@
    "kind": "stock",
    "code": "0001",
    "name": "長和",
-   "tags": [
-    "超弱勢",
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "stock",
-   "code": "0002",
-   "name": "中電控股",
    "tags": [
     "持續弱"
    ]
@@ -65,7 +56,8 @@
    "code": "0016",
    "name": "新鴻基地產",
    "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -73,7 +65,7 @@
    "code": "0020",
    "name": "商湯 - W",
    "tags": [
-    "持續弱"
+    "短線反彈"
    ]
   },
   {
@@ -81,8 +73,8 @@
    "code": "0100",
    "name": "MINIMAX - W",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -90,7 +82,8 @@
    "code": "0101",
    "name": "恒隆地產",
    "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -98,7 +91,8 @@
    "code": "0175",
    "name": "吉利汽車",
    "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -107,15 +101,8 @@
    "name": "中信股份",
    "tags": [
     "超弱勢",
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "stock",
-   "code": "0285",
-   "name": "比亞迪電子",
-   "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -128,10 +115,26 @@
   },
   {
    "kind": "stock",
+   "code": "0291",
+   "name": "華潤啤酒",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
    "code": "0316",
    "name": "東方海外國際",
    "tags": [
-    "超強勢"
+    "持續強"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0322",
+   "name": "康師傅控股",
+   "tags": [
+    "持續強"
    ]
   },
   {
@@ -139,15 +142,8 @@
    "code": "0388",
    "name": "香港交易所",
    "tags": [
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "stock",
-   "code": "0669",
-   "name": "創科實業",
-   "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -155,6 +151,7 @@
    "code": "0688",
    "name": "中國海外發展",
    "tags": [
+    "超弱勢",
     "持續弱"
    ]
   },
@@ -163,8 +160,8 @@
    "code": "0700",
    "name": "騰訊控股",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -179,6 +176,15 @@
    "kind": "stock",
    "code": "0762",
    "name": "中國聯通",
+   "tags": [
+    "超弱勢",
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "0836",
+   "name": "華潤電力",
    "tags": [
     "超弱勢",
     "持續弱"
@@ -202,6 +208,14 @@
   },
   {
    "kind": "stock",
+   "code": "0939",
+   "name": "建設銀行(H)",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "stock",
    "code": "0941",
    "name": "中國移動",
    "tags": [
@@ -214,7 +228,9 @@
    "code": "0960",
    "name": "龍湖集團",
    "tags": [
-    "持續弱"
+    "超弱勢",
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -248,8 +264,8 @@
    "code": "1024",
    "name": "快手 - W",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -266,7 +282,8 @@
    "name": "中國神華(H)",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -280,10 +297,17 @@
   },
   {
    "kind": "stock",
+   "code": "1109",
+   "name": "華潤置地",
+   "tags": [
+    "持續弱"
+   ]
+  },
+  {
+   "kind": "stock",
    "code": "1113",
    "name": "長實集團",
    "tags": [
-    "超弱勢",
     "持續弱"
    ]
   },
@@ -301,8 +325,8 @@
    "code": "1211",
    "name": "比亞迪股份(H)",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -311,7 +335,8 @@
    "name": "華虹宏力",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -319,8 +344,8 @@
    "code": "1378",
    "name": "中國宏橋",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -334,10 +359,10 @@
   },
   {
    "kind": "stock",
-   "code": "1519",
-   "name": "極兔速遞 - W",
+   "code": "1698",
+   "name": "騰訊音樂 - SW",
    "tags": [
-    "持續弱"
+    "超強勢"
    ]
   },
   {
@@ -346,7 +371,16 @@
    "name": "信達生物",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "1810",
+   "name": "小米集團 - W",
+   "tags": [
+    "超強勢"
    ]
   },
   {
@@ -354,23 +388,16 @@
    "code": "1928",
    "name": "金沙中國有限公司",
    "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
    "kind": "stock",
-   "code": "1929",
-   "name": "周大福",
+   "code": "2020",
+   "name": "安踏體育",
    "tags": [
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "stock",
-   "code": "2015",
-   "name": "理想汽車 - W",
-   "tags": [
-    "持續弱"
+    "超強勢"
    ]
   },
   {
@@ -379,7 +406,16 @@
    "name": "藥明生物",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2313",
+   "name": "申洲國際",
+   "tags": [
+    "超強勢"
    ]
   },
   {
@@ -388,7 +424,16 @@
    "name": "中國平安(H)",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "2319",
+   "name": "蒙牛乳業",
+   "tags": [
+    "超強勢"
    ]
   },
   {
@@ -396,8 +441,8 @@
    "code": "2338",
    "name": "濰柴動力(H)",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -406,24 +451,8 @@
    "name": "藥明康德(H)",
    "tags": [
     "超弱勢",
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "stock",
-   "code": "2382",
-   "name": "舜宇光學科技",
-   "tags": [
-    "超弱勢",
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "stock",
-   "code": "2388",
-   "name": "中銀香港",
-   "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -431,8 +460,8 @@
    "code": "2513",
    "name": "智譜(H)",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -440,8 +469,8 @@
    "code": "2600",
    "name": "中國鋁業(H)",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -449,7 +478,8 @@
    "code": "2618",
    "name": "京東物流",
    "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -458,15 +488,8 @@
    "name": "中國人壽(H)",
    "tags": [
     "超弱勢",
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "stock",
-   "code": "2688",
-   "name": "新奧能源",
-   "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -474,8 +497,8 @@
    "code": "2899",
    "name": "紫金礦業(H)",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -483,8 +506,7 @@
    "code": "3692",
    "name": "翰森製藥",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "短線反彈"
    ]
   },
   {
@@ -493,15 +515,8 @@
    "name": "寧德時代(H)",
    "tags": [
     "超弱勢",
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "stock",
-   "code": "3968",
-   "name": "招商銀行(H)",
-   "tags": [
-    "超強勢"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -509,8 +524,8 @@
    "code": "3993",
    "name": "洛陽鉬業(H)",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -560,7 +575,8 @@
    "name": "京東集團 - SW",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -569,7 +585,16 @@
    "name": "嗶哩嗶哩 - W",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "stock",
+   "code": "9633",
+   "name": "農夫山泉(H)",
+   "tags": [
+    "持續強"
    ]
   },
   {
@@ -577,8 +602,8 @@
    "code": "9660",
    "name": "地平線機器人 - W",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -586,7 +611,6 @@
    "code": "9863",
    "name": "零跑汽車(H)",
    "tags": [
-    "超弱勢",
     "持續弱"
    ]
   },
@@ -595,8 +619,8 @@
    "code": "9866",
    "name": "蔚來 - SW",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -604,8 +628,8 @@
    "code": "9868",
    "name": "小鵬集團 - W",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -614,7 +638,8 @@
    "name": "百度集團 - SW",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -622,7 +647,7 @@
    "code": "9901",
    "name": "新東方 - S",
    "tags": [
-    "持續強"
+    "超強勢"
    ]
   },
   {
@@ -630,8 +655,8 @@
    "code": "9903",
    "name": "天數智芯(H)",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -649,7 +674,8 @@
    "name": "泡泡瑪特",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -657,6 +683,7 @@
    "code": "9999",
    "name": "網易",
    "tags": [
+    "超弱勢",
     "持續弱"
    ]
   },
@@ -665,8 +692,8 @@
    "code": "Aluminum",
    "name": "鋁業",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -674,8 +701,8 @@
    "code": "Auto Manufacturers",
    "name": "汽車製造",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -688,10 +715,18 @@
   },
   {
    "kind": "industry_group",
-   "code": "Banks - Regional",
-   "name": "地區銀行",
+   "code": "Beverages - Brewers",
+   "name": "啤酒飲料",
    "tags": [
-    "持續弱"
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Beverages - Non-Alcoholic",
+   "name": "非酒精飲料",
+   "tags": [
+    "持續強"
    ]
   },
   {
@@ -700,7 +735,8 @@
    "name": "生物科技",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -731,11 +767,20 @@
   },
   {
    "kind": "industry_group",
+   "code": "Consumer Electronics",
+   "name": "消費電子",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "industry_group",
    "code": "Diagnostics & Research",
    "name": "診斷及研究",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -752,8 +797,7 @@
    "code": "Drug Manufacturers - Specialty & Generic",
    "name": "藥品製造（專科／仿製）",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "短線反彈"
    ]
   },
   {
@@ -761,7 +805,7 @@
    "code": "Education & Training Services",
    "name": "教育培訓",
    "tags": [
-    "持續強"
+    "超強勢"
    ]
   },
   {
@@ -770,16 +814,8 @@
    "name": "電氣設備及零件",
    "tags": [
     "超弱勢",
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "industry_group",
-   "code": "Electronic Components",
-   "name": "電子元件",
-   "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -787,6 +823,7 @@
    "code": "Electronic Gaming & Multimedia",
    "name": "電子遊戲及多媒體",
    "tags": [
+    "超弱勢",
     "持續弱"
    ]
   },
@@ -795,7 +832,8 @@
    "code": "Financial Data & Stock Exchanges",
    "name": "金融數據及交易所",
    "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -811,8 +849,8 @@
    "code": "Gold",
    "name": "黃金",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -820,15 +858,8 @@
    "code": "Insurance - Life",
    "name": "人壽保險",
    "tags": [
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "industry_group",
-   "code": "Integrated Freight & Logistics",
-   "name": "綜合物流",
-   "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -836,8 +867,8 @@
    "code": "Internet Content & Information",
    "name": "互聯網內容及資訊",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -845,7 +876,8 @@
    "code": "Internet Retail",
    "name": "互聯網零售",
    "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -869,7 +901,7 @@
    "code": "Marine Shipping",
    "name": "海運",
    "tags": [
-    "超強勢"
+    "持續強"
    ]
   },
   {
@@ -885,8 +917,16 @@
    "code": "Other Industrial Metals & Mining",
    "name": "其他工業金屬及採礦",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "industry_group",
+   "code": "Pharmaceutical Retailers",
+   "name": "醫藥零售",
+   "tags": [
+    "超強勢"
    ]
   },
   {
@@ -894,7 +934,8 @@
    "code": "Real Estate - Development",
    "name": "地產發展",
    "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -907,18 +948,10 @@
   },
   {
    "kind": "industry_group",
-   "code": "Real Estate Services",
-   "name": "地產服務",
-   "tags": [
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "industry_group",
    "code": "Resorts & Casinos",
    "name": "博彩度假",
    "tags": [
-    "持續弱"
+    "短線反彈"
    ]
   },
   {
@@ -935,7 +968,8 @@
    "name": "半導體",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -943,8 +977,8 @@
    "code": "Software - Application",
    "name": "軟件（應用）",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -952,8 +986,8 @@
    "code": "Software - Infrastructure",
    "name": "軟件（基建）",
    "tags": [
-    "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -975,41 +1009,26 @@
   },
   {
    "kind": "industry_group",
+   "code": "Textile Manufacturing",
+   "name": "紡織製造",
+   "tags": [
+    "超強勢"
+   ]
+  },
+  {
+   "kind": "industry_group",
    "code": "Thermal Coal",
    "name": "動力煤",
    "tags": [
     "超弱勢",
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "industry_group",
-   "code": "Tools & Accessories",
-   "name": "工具及配件",
-   "tags": [
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "industry_group",
-   "code": "Utilities - Regulated Electric",
-   "name": "受規管電力公用",
-   "tags": [
-    "持續強"
-   ]
-  },
-  {
-   "kind": "industry_group",
-   "code": "Utilities - Regulated Gas",
-   "name": "受規管燃氣公用",
-   "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
    "kind": "subsector",
-   "code": "Utilities",
-   "name": "公用事業",
+   "code": "Energy",
+   "name": "能源業",
    "tags": [
     "持續弱"
    ]
@@ -1018,14 +1037,6 @@
    "kind": "subsector",
    "code": "Properties & Construction",
    "name": "地產建築業",
-   "tags": [
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "subsector",
-   "code": "Energy",
-   "name": "能源業",
    "tags": [
     "持續弱"
    ]
@@ -1041,16 +1052,17 @@
   },
   {
    "kind": "subsector",
-   "code": "Financials",
-   "name": "金融業",
+   "code": "Consumer Discretionary",
+   "name": "非必需性消費",
    "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
    "kind": "subsector",
-   "code": "Consumer Discretionary",
-   "name": "非必需性消費",
+   "code": "Financials",
+   "name": "金融業",
    "tags": [
     "持續弱"
    ]
@@ -1061,7 +1073,17 @@
    "name": "醫療保健業",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
+   ]
+  },
+  {
+   "kind": "subsector",
+   "code": "Industrials",
+   "name": "工業",
+   "tags": [
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -1075,19 +1097,11 @@
   },
   {
    "kind": "subsector",
-   "code": "Industrials",
-   "name": "工業",
-   "tags": [
-    "超弱勢",
-    "持續弱"
-   ]
-  },
-  {
-   "kind": "subsector",
    "code": "Materials",
    "name": "原材料業",
    "tags": [
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   },
   {
@@ -1096,7 +1110,8 @@
    "name": "資訊科技業",
    "tags": [
     "超弱勢",
-    "持續弱"
+    "持續弱",
+    "短線反彈"
    ]
   }
  ],
@@ -1109,19 +1124,19 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.133195,
-   "r20": -0.159163
+   "r5": -0.015343,
+   "r20": -0.101622
   },
   {
    "kind": "industry_group",
    "key": "Auto Manufacturers",
    "name": "汽車製造",
    "n": 7,
-   "breadth5": 0.0,
-   "breadth10": 0.0,
-   "breadth5Chg": -14.3,
-   "r5": -0.07255,
-   "r20": -0.117353
+   "breadth5": 14.3,
+   "breadth10": 14.3,
+   "breadth5Chg": 14.3,
+   "r5": -0.015327,
+   "r20": -0.088337
   },
   {
    "kind": "industry_group",
@@ -1129,10 +1144,10 @@
    "name": "綜合銀行",
    "n": 4,
    "breadth5": 0.0,
-   "breadth10": 50.0,
+   "breadth10": 25.0,
    "breadth5Chg": 0.0,
-   "r5": -0.025915,
-   "r20": -0.027231
+   "r5": -0.037493,
+   "r20": -0.030858
   },
   {
    "kind": "industry_group",
@@ -1142,30 +1157,30 @@
    "breadth5": 0.0,
    "breadth10": 50.0,
    "breadth5Chg": 0.0,
-   "r5": -0.02572,
-   "r20": -0.020883
+   "r5": -0.03873,
+   "r20": -0.021636
   },
   {
    "kind": "industry_group",
    "key": "Beverages - Brewers",
    "name": "啤酒飲料",
    "n": 2,
-   "breadth5": 0.0,
+   "breadth5": 50.0,
    "breadth10": 100.0,
-   "breadth5Chg": -50.0,
-   "r5": -0.019157,
-   "r20": -0.000211
+   "breadth5Chg": 50.0,
+   "r5": -0.005199,
+   "r20": 0.013446
   },
   {
    "kind": "industry_group",
    "key": "Beverages - Non-Alcoholic",
    "name": "非酒精飲料",
    "n": 1,
-   "breadth5": 0.0,
+   "breadth5": 100.0,
    "breadth10": 100.0,
-   "breadth5Chg": 0.0,
-   "r5": -0.031899,
-   "r20": 0.025077
+   "breadth5Chg": 100.0,
+   "r5": 0.003383,
+   "r20": 0.065162
   },
   {
    "kind": "industry_group",
@@ -1175,8 +1190,8 @@
    "breadth5": 25.0,
    "breadth10": 25.0,
    "breadth5Chg": 0.0,
-   "r5": -0.031769,
-   "r20": -0.115814
+   "r5": -0.025526,
+   "r20": -0.100613
   },
   {
    "kind": "industry_group",
@@ -1186,8 +1201,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.029869,
-   "r20": -0.044145
+   "r5": -0.021957,
+   "r20": -0.041205
   },
   {
    "kind": "industry_group",
@@ -1197,8 +1212,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.238158,
-   "r20": -0.369624
+   "r5": -0.12856,
+   "r20": -0.386782
   },
   {
    "kind": "industry_group",
@@ -1208,8 +1223,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.053655,
-   "r20": -0.074826
+   "r5": -0.035709,
+   "r20": -0.068381
   },
   {
    "kind": "industry_group",
@@ -1218,9 +1233,9 @@
    "n": 1,
    "breadth5": 0.0,
    "breadth10": 100.0,
-   "breadth5Chg": -100.0,
-   "r5": -0.021986,
-   "r20": -0.051471
+   "breadth5Chg": 0.0,
+   "r5": -0.01034,
+   "r20": 0.023682
   },
   {
    "kind": "industry_group",
@@ -1230,8 +1245,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.088119,
-   "r20": -0.114423
+   "r5": -0.072782,
+   "r20": -0.104046
   },
   {
    "kind": "industry_group",
@@ -1241,8 +1256,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.032025,
-   "r20": -0.121744
+   "r5": -0.039182,
+   "r20": -0.117341
   },
   {
    "kind": "industry_group",
@@ -1250,10 +1265,10 @@
    "name": "藥品製造（專科／仿製）",
    "n": 1,
    "breadth5": 100.0,
-   "breadth10": 0.0,
+   "breadth10": 100.0,
    "breadth5Chg": 0.0,
-   "r5": 0.041857,
-   "r20": -0.098472
+   "r5": 0.051625,
+   "r20": -0.055524
   },
   {
    "kind": "industry_group",
@@ -1263,8 +1278,8 @@
    "breadth5": 100.0,
    "breadth10": 100.0,
    "breadth5Chg": 0.0,
-   "r5": 0.002187,
-   "r20": 0.069062
+   "r5": 0.021117,
+   "r20": 0.071066
   },
   {
    "kind": "industry_group",
@@ -1274,19 +1289,19 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.275375,
-   "r20": -0.332544
+   "r5": -0.204637,
+   "r20": -0.302444
   },
   {
    "kind": "industry_group",
    "key": "Electronic Components",
    "name": "電子元件",
    "n": 2,
-   "breadth5": 50.0,
-   "breadth10": 0.0,
-   "breadth5Chg": 0.0,
-   "r5": -0.015065,
-   "r20": -0.088778
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 50.0,
+   "r5": 0.054281,
+   "r20": -0.025545
   },
   {
    "kind": "industry_group",
@@ -1296,8 +1311,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.078093,
-   "r20": -0.018358
+   "r5": -0.067278,
+   "r20": -0.007054
   },
   {
    "kind": "industry_group",
@@ -1307,19 +1322,19 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.017131,
-   "r20": -0.075994
+   "r5": -0.001616,
+   "r20": -0.063163
   },
   {
    "kind": "industry_group",
    "key": "Furnishings, Fixtures & Appliances",
    "name": "家電及家具",
    "n": 2,
-   "breadth5": 0.0,
+   "breadth5": 50.0,
    "breadth10": 50.0,
-   "breadth5Chg": 0.0,
-   "r5": -0.0333,
-   "r20": -0.036128
+   "breadth5Chg": 50.0,
+   "r5": -0.013051,
+   "r20": -0.021893
   },
   {
    "kind": "industry_group",
@@ -1329,8 +1344,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.092327,
-   "r20": -0.144621
+   "r5": -0.057582,
+   "r20": -0.122692
   },
   {
    "kind": "industry_group",
@@ -1340,8 +1355,8 @@
    "breadth5": 0.0,
    "breadth10": 100.0,
    "breadth5Chg": 0.0,
-   "r5": -0.016641,
-   "r20": -0.026946
+   "r5": -0.015984,
+   "r20": -0.011044
   },
   {
    "kind": "industry_group",
@@ -1351,8 +1366,8 @@
    "breadth5": 0.0,
    "breadth10": 33.3,
    "breadth5Chg": 0.0,
-   "r5": -0.052305,
-   "r20": -0.13134
+   "r5": -0.026259,
+   "r20": -0.111403
   },
   {
    "kind": "industry_group",
@@ -1360,21 +1375,21 @@
    "name": "綜合物流",
    "n": 3,
    "breadth5": 0.0,
-   "breadth10": 33.3,
+   "breadth10": 66.7,
    "breadth5Chg": 0.0,
-   "r5": -0.038894,
-   "r20": -0.023028
+   "r5": -0.01142,
+   "r20": -0.000405
   },
   {
    "kind": "industry_group",
    "key": "Internet Content & Information",
    "name": "互聯網內容及資訊",
    "n": 5,
-   "breadth5": 0.0,
+   "breadth5": 20.0,
    "breadth10": 20.0,
-   "breadth5Chg": 0.0,
-   "r5": -0.082028,
-   "r20": -0.117453
+   "breadth5Chg": 20.0,
+   "r5": -0.02875,
+   "r20": -0.08242
   },
   {
    "kind": "industry_group",
@@ -1383,31 +1398,31 @@
    "n": 3,
    "breadth5": 0.0,
    "breadth10": 33.3,
-   "breadth5Chg": -33.3,
-   "r5": -0.089249,
-   "r20": -0.084985
+   "breadth5Chg": 0.0,
+   "r5": -0.059301,
+   "r20": -0.061085
   },
   {
    "kind": "industry_group",
    "key": "Leisure",
    "name": "休閒運動",
    "n": 3,
-   "breadth5": 0.0,
+   "breadth5": 33.3,
    "breadth10": 66.7,
-   "breadth5Chg": -66.7,
-   "r5": -0.059353,
-   "r20": -0.048029
+   "breadth5Chg": 33.3,
+   "r5": -0.032017,
+   "r20": -0.020052
   },
   {
    "kind": "industry_group",
    "key": "Luxury Goods",
    "name": "奢侈品",
    "n": 2,
-   "breadth5": 50.0,
-   "breadth10": 0.0,
-   "breadth5Chg": 0.0,
-   "r5": -0.028734,
-   "r20": -0.111049
+   "breadth5": 0.0,
+   "breadth10": 50.0,
+   "breadth5Chg": -50.0,
+   "r5": -0.049212,
+   "r20": -0.101425
   },
   {
    "kind": "industry_group",
@@ -1417,8 +1432,8 @@
    "breadth5": 0.0,
    "breadth10": 100.0,
    "breadth5Chg": 0.0,
-   "r5": -0.107015,
-   "r20": 0.035148
+   "r5": -0.076781,
+   "r20": 0.054737
   },
   {
    "kind": "industry_group",
@@ -1427,9 +1442,9 @@
    "n": 1,
    "breadth5": 0.0,
    "breadth10": 100.0,
-   "breadth5Chg": -100.0,
-   "r5": -0.012821,
-   "r20": 0.024617
+   "breadth5Chg": 0.0,
+   "r5": -0.019808,
+   "r20": 0.018592
   },
   {
    "kind": "industry_group",
@@ -1439,8 +1454,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.055016,
-   "r20": -0.013514
+   "r5": -0.044628,
+   "r20": -0.009426
   },
   {
    "kind": "industry_group",
@@ -1448,10 +1463,10 @@
    "name": "綜合石油天然氣",
    "n": 2,
    "breadth5": 0.0,
-   "breadth10": 100.0,
+   "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.04676,
-   "r20": 0.011516
+   "r5": -0.028006,
+   "r20": 0.015324
   },
   {
    "kind": "industry_group",
@@ -1461,41 +1476,41 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.16415,
-   "r20": -0.189688
+   "r5": -0.083157,
+   "r20": -0.169221
   },
   {
    "kind": "industry_group",
    "key": "Packaged Foods",
    "name": "包裝食品",
    "n": 3,
-   "breadth5": 0.0,
+   "breadth5": 33.3,
    "breadth10": 66.7,
-   "breadth5Chg": -66.7,
-   "r5": -0.036491,
-   "r20": 0.016886
+   "breadth5Chg": 33.3,
+   "r5": -0.017747,
+   "r20": 0.034606
   },
   {
    "kind": "industry_group",
    "key": "Pharmaceutical Retailers",
    "name": "醫藥零售",
    "n": 2,
-   "breadth5": 50.0,
+   "breadth5": 0.0,
    "breadth10": 100.0,
    "breadth5Chg": -50.0,
-   "r5": 0.006091,
-   "r20": 0.025748
+   "r5": -0.017902,
+   "r20": 0.027803
   },
   {
    "kind": "industry_group",
    "key": "REIT - Retail",
    "name": "零售 REIT",
    "n": 1,
-   "breadth5": 0.0,
+   "breadth5": 100.0,
    "breadth10": 100.0,
-   "breadth5Chg": -100.0,
-   "r5": -0.009004,
-   "r20": -0.005316
+   "breadth5Chg": 100.0,
+   "r5": 0.003166,
+   "r20": 0.008488
   },
   {
    "kind": "industry_group",
@@ -1505,30 +1520,30 @@
    "breadth5": 100.0,
    "breadth10": 100.0,
    "breadth5Chg": 0.0,
-   "r5": 0.011243,
-   "r20": -0.018193
+   "r5": 0.016949,
+   "r20": -0.007353
   },
   {
    "kind": "industry_group",
    "key": "Real Estate - Development",
    "name": "地產發展",
    "n": 5,
-   "breadth5": 20.0,
+   "breadth5": 40.0,
    "breadth10": 0.0,
    "breadth5Chg": 20.0,
-   "r5": -0.021477,
-   "r20": -0.044745
+   "r5": -0.005481,
+   "r20": -0.046194
   },
   {
    "kind": "industry_group",
    "key": "Real Estate - Diversified",
    "name": "綜合地產",
    "n": 1,
-   "breadth5": 0.0,
+   "breadth5": 100.0,
    "breadth10": 100.0,
-   "breadth5Chg": -100.0,
-   "r5": -0.002965,
-   "r20": 0.018939
+   "breadth5Chg": 100.0,
+   "r5": 0.022438,
+   "r20": 0.039544
   },
   {
    "kind": "industry_group",
@@ -1537,9 +1552,9 @@
    "n": 3,
    "breadth5": 33.3,
    "breadth10": 66.7,
-   "breadth5Chg": -33.4,
-   "r5": -0.008033,
-   "r20": -0.013677
+   "breadth5Chg": 0.0,
+   "r5": -0.006565,
+   "r20": -0.016886
   },
   {
    "kind": "industry_group",
@@ -1548,9 +1563,9 @@
    "n": 2,
    "breadth5": 0.0,
    "breadth10": 50.0,
-   "breadth5Chg": -50.0,
-   "r5": -0.042637,
-   "r20": -0.0628
+   "breadth5Chg": 0.0,
+   "r5": -0.0394,
+   "r20": -0.05447
   },
   {
    "kind": "industry_group",
@@ -1559,9 +1574,9 @@
    "n": 1,
    "breadth5": 0.0,
    "breadth10": 0.0,
-   "breadth5Chg": -100.0,
-   "r5": -0.037467,
-   "r20": -0.0272
+   "breadth5Chg": 0.0,
+   "r5": -0.012306,
+   "r20": -0.004852
   },
   {
    "kind": "industry_group",
@@ -1571,30 +1586,30 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.181645,
-   "r20": -0.387451
+   "r5": -0.088868,
+   "r20": -0.358613
   },
   {
    "kind": "industry_group",
    "key": "Software - Application",
    "name": "軟件（應用）",
    "n": 2,
-   "breadth5": 0.0,
-   "breadth10": 0.0,
-   "breadth5Chg": 0.0,
-   "r5": -0.090575,
-   "r20": -0.133392
+   "breadth5": 50.0,
+   "breadth10": 50.0,
+   "breadth5Chg": 50.0,
+   "r5": 0.002897,
+   "r20": -0.066853
   },
   {
    "kind": "industry_group",
    "key": "Software - Infrastructure",
    "name": "軟件（基建）",
    "n": 2,
-   "breadth5": 0.0,
+   "breadth5": 50.0,
    "breadth10": 0.0,
-   "breadth5Chg": 0.0,
-   "r5": -0.203716,
-   "r20": -0.408936
+   "breadth5Chg": 50.0,
+   "r5": 0.008444,
+   "r20": -0.275063
   },
   {
    "kind": "industry_group",
@@ -1604,8 +1619,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.034483,
-   "r20": -0.078481
+   "r5": -0.018919,
+   "r20": -0.081013
   },
   {
    "kind": "industry_group",
@@ -1615,8 +1630,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.067514,
-   "r20": -0.038532
+   "r5": -0.070383,
+   "r20": -0.038913
   },
   {
    "kind": "industry_group",
@@ -1625,9 +1640,9 @@
    "n": 1,
    "breadth5": 0.0,
    "breadth10": 100.0,
-   "breadth5Chg": -100.0,
-   "r5": -0.025824,
-   "r20": 0.025448
+   "breadth5Chg": 0.0,
+   "r5": -0.010155,
+   "r20": 0.066206
   },
   {
    "kind": "industry_group",
@@ -1637,41 +1652,41 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.112022,
-   "r20": -0.116951
+   "r5": -0.080316,
+   "r20": -0.08926
   },
   {
    "kind": "industry_group",
    "key": "Tools & Accessories",
    "name": "工具及配件",
    "n": 1,
-   "breadth5": 0.0,
-   "breadth10": 0.0,
-   "breadth5Chg": -100.0,
-   "r5": -0.037663,
-   "r20": -0.022639
+   "breadth5": 100.0,
+   "breadth10": 100.0,
+   "breadth5Chg": 100.0,
+   "r5": 0.007806,
+   "r20": -0.003089
   },
   {
    "kind": "industry_group",
    "key": "Travel Services",
    "name": "旅遊服務",
    "n": 1,
-   "breadth5": 0.0,
+   "breadth5": 100.0,
    "breadth10": 100.0,
-   "breadth5Chg": -100.0,
-   "r5": -0.001954,
-   "r20": -0.051393
+   "breadth5Chg": 100.0,
+   "r5": 0.018111,
+   "r20": -0.026592
   },
   {
    "kind": "industry_group",
    "key": "Utilities - Independent Power Producers",
    "name": "獨立電力生產商",
    "n": 2,
-   "breadth5": 50.0,
+   "breadth5": 0.0,
    "breadth10": 50.0,
-   "breadth5Chg": 50.0,
-   "r5": -0.036887,
-   "r20": -0.006712
+   "breadth5Chg": -50.0,
+   "r5": -0.036626,
+   "r20": 0.000154
   },
   {
    "kind": "industry_group",
@@ -1679,10 +1694,10 @@
    "name": "受規管電力公用",
    "n": 2,
    "breadth5": 0.0,
-   "breadth10": 50.0,
+   "breadth10": 100.0,
    "breadth5Chg": 0.0,
-   "r5": -0.006697,
-   "r20": 4.3e-05
+   "r5": -0.009463,
+   "r20": 0.007623
   },
   {
    "kind": "industry_group",
@@ -1691,42 +1706,31 @@
    "n": 2,
    "breadth5": 0.0,
    "breadth10": 50.0,
-   "breadth5Chg": -50.0,
-   "r5": -0.027546,
-   "r20": -0.001929
+   "breadth5Chg": 0.0,
+   "r5": -0.017368,
+   "r20": 0.006897
   },
   {
    "kind": "subsector",
    "key": "Consumer Staples",
    "name": "必需性消費",
    "n": 7,
-   "breadth5": 0.0,
+   "breadth5": 42.9,
    "breadth10": 85.7,
-   "breadth5Chg": -42.9,
-   "r5": -0.028047,
-   "r20": 0.006909
+   "breadth5Chg": 42.9,
+   "r5": -0.010891,
+   "r20": 0.026404
   },
   {
    "kind": "subsector",
    "key": "Utilities",
    "name": "公用事業",
    "n": 6,
-   "breadth5": 16.7,
-   "breadth10": 50.0,
-   "breadth5Chg": 0.0,
-   "r5": -0.02371,
-   "r20": -0.002866
-  },
-  {
-   "kind": "subsector",
-   "key": "Properties & Construction",
-   "name": "地產建築業",
-   "n": 10,
-   "breadth5": 20.0,
-   "breadth10": 40.0,
-   "breadth5Chg": -20.0,
-   "r5": -0.014345,
-   "r20": -0.025113
+   "breadth5": 0.0,
+   "breadth10": 66.7,
+   "breadth5Chg": -16.7,
+   "r5": -0.021152,
+   "r20": 0.004892
   },
   {
    "kind": "subsector",
@@ -1734,10 +1738,21 @@
    "name": "能源業",
    "n": 4,
    "breadth5": 0.0,
-   "breadth10": 50.0,
+   "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.06514,
-   "r20": -0.026858
+   "r5": -0.045239,
+   "r20": -0.01701
+  },
+  {
+   "kind": "subsector",
+   "key": "Properties & Construction",
+   "name": "地產建築業",
+   "n": 10,
+   "breadth5": 50.0,
+   "breadth10": 40.0,
+   "breadth5Chg": 30.0,
+   "r5": -0.00215,
+   "r20": -0.02336
   },
   {
    "kind": "subsector",
@@ -1747,8 +1762,19 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.067514,
-   "r20": -0.038532
+   "r5": -0.070383,
+   "r20": -0.038913
+  },
+  {
+   "kind": "subsector",
+   "key": "Consumer Discretionary",
+   "name": "非必需性消費",
+   "n": 28,
+   "breadth5": 28.6,
+   "breadth10": 46.4,
+   "breadth5Chg": 17.9,
+   "r5": -0.021781,
+   "r20": -0.044422
   },
   {
    "kind": "subsector",
@@ -1756,32 +1782,32 @@
    "name": "金融業",
    "n": 10,
    "breadth5": 0.0,
-   "breadth10": 40.0,
+   "breadth10": 30.0,
    "breadth5Chg": 0.0,
-   "r5": -0.032914,
-   "r20": -0.06207
-  },
-  {
-   "kind": "subsector",
-   "key": "Consumer Discretionary",
-   "name": "非必需性消費",
-   "n": 28,
-   "breadth5": 10.7,
-   "breadth10": 35.7,
-   "breadth5Chg": -32.2,
-   "r5": -0.052949,
-   "r20": -0.067705
+   "r5": -0.030782,
+   "r20": -0.056408
   },
   {
    "kind": "subsector",
    "key": "Healthcare",
    "name": "醫療保健業",
    "n": 10,
-   "breadth5": 30.0,
-   "breadth10": 40.0,
-   "breadth5Chg": -20.0,
-   "r5": -0.0206,
-   "r20": -0.072178
+   "breadth5": 20.0,
+   "breadth10": 50.0,
+   "breadth5Chg": -10.0,
+   "r5": -0.021805,
+   "r20": -0.060517
+  },
+  {
+   "kind": "subsector",
+   "key": "Industrials",
+   "name": "工業",
+   "n": 8,
+   "breadth5": 12.5,
+   "breadth10": 50.0,
+   "breadth5Chg": 0.0,
+   "r5": -0.028803,
+   "r20": -0.06549
   },
   {
    "kind": "subsector",
@@ -1791,19 +1817,8 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.053655,
-   "r20": -0.074826
-  },
-  {
-   "kind": "subsector",
-   "key": "Industrials",
-   "name": "工業",
-   "n": 8,
-   "breadth5": 12.5,
-   "breadth10": 25.0,
-   "breadth5Chg": 0.0,
-   "r5": -0.074334,
-   "r20": -0.094027
+   "r5": -0.035709,
+   "r20": -0.068381
   },
   {
    "kind": "subsector",
@@ -1813,50 +1828,68 @@
    "breadth5": 0.0,
    "breadth10": 0.0,
    "breadth5Chg": 0.0,
-   "r5": -0.110547,
-   "r20": -0.139356
+   "r5": -0.038676,
+   "r20": -0.107273
   },
   {
    "kind": "subsector",
    "key": "Information Technology",
    "name": "資訊科技業",
    "n": 12,
-   "breadth5": 0.0,
-   "breadth10": 8.3,
-   "breadth5Chg": -8.3,
-   "r5": -0.135067,
-   "r20": -0.242806
+   "breadth5": 25.0,
+   "breadth10": 25.0,
+   "breadth5Chg": 25.0,
+   "r5": -0.043553,
+   "r20": -0.189764
   }
  ],
  "watch": [
   {
    "kind": "industry_group",
-   "key": "Medical Distribution",
-   "name": "醫療分銷",
+   "key": "Electronic Components",
+   "name": "電子元件",
+   "watch": "轉強觀察"
+  },
+  {
+   "kind": "industry_group",
+   "key": "Pharmaceutical Retailers",
+   "name": "醫藥零售",
    "watch": "轉弱觀察"
   },
   {
    "kind": "industry_group",
-   "key": "Packaged Foods",
-   "name": "包裝食品",
-   "watch": "轉弱觀察"
+   "key": "Software - Application",
+   "name": "軟件（應用）",
+   "watch": "轉強觀察"
   },
   {
    "kind": "industry_group",
-   "key": "Real Estate - Diversified",
-   "name": "綜合地產",
-   "watch": "轉弱觀察"
+   "key": "Software - Infrastructure",
+   "name": "軟件（基建）",
+   "watch": "轉強觀察"
   },
   {
    "kind": "industry_group",
-   "key": "Textile Manufacturing",
-   "name": "紡織製造",
+   "key": "Tools & Accessories",
+   "name": "工具及配件",
+   "watch": "轉強觀察"
+  },
+  {
+   "kind": "industry_group",
+   "key": "Travel Services",
+   "name": "旅遊服務",
+   "watch": "轉強觀察"
+  },
+  {
+   "kind": "industry_group",
+   "key": "Utilities - Independent Power Producers",
+   "name": "獨立電力生產商",
    "watch": "轉弱觀察"
   },
   {
    "kind": "subsector",
-   "key": "Consumer Staples",
-   "name": "必需性消費",
+   "key": "Utilities",
+   "name": "公用事業",
    "watch": "轉弱觀察"
   }
  ]
